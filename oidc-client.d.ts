@@ -159,7 +159,7 @@ declare namespace Oidc {
         popupWindowTarget?: any;
         silent_redirect_uri?: any;
         automaticSilentRenew?: any;
-        accessTokenExpiringNotificationTime?: string;
+        accessTokenExpiringNotificationTime?: number;
         redirectNavigator?: any;
         popupNavigator?: any;
         iframeNavigator?: any;
